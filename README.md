@@ -15,3 +15,7 @@ I have been able to acheive the current date and time being displayed, and have 
 
 My knowledge of Javascript foundations are not strong enough to achieve what is being asked of this assignment, so I am focusing on studying hard on Javascript foundations and will revisit this when I have a better understanding!
 
+Screenshot of assignment:
+https://user-images.githubusercontent.com/82196946/124561780-9cef2d80-de81-11eb-940c-6fcbf5e3401e.png
+
+
