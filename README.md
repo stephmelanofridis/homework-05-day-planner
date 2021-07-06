@@ -18,4 +18,10 @@ My knowledge of Javascript foundations are not strong enough to achieve what is 
 Screenshot of assignment:
 https://user-images.githubusercontent.com/82196946/124561780-9cef2d80-de81-11eb-940c-6fcbf5e3401e.png
 
+Link to Day Planner:
+https://stephmelanofridis.github.io/homework-05-day-planner/
+
+Link to repo:
+https://github.com/stephmelanofridis/homework-05-day-planner/edit/main
+
 
