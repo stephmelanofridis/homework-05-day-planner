@@ -22,6 +22,5 @@ Link to Day Planner:
 https://stephmelanofridis.github.io/homework-05-day-planner/
 
 Link to repo:
-https://github.com/stephmelanofridis/homework-05-day-planner/edit/main
-
+https://github.com/stephmelanofridis/homework-05-day-planner
 
