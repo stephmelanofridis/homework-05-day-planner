@@ -15,7 +15,6 @@ When I first attempted this homework I was able to acheive current time and date
 
 With some more time and research I have been able to revisit this homework and submit something better that complies with the requirements of the homework. I have updated my code and instead of using HTML and Bootstrap to create the form elements, I have instead used jQuery. I have used jQuery to create and append elements and also add classes to them that connect with the CSS style sheet provided. I have also updated my moment.js code so that it continuously updates which it did not do before. 
 
-<<<<<<< HEAD
 # Technologies Used
 
 In this project I have used starter code provided for the homework for HTML and CSS. I have then used jQuery, Bootstrap and moment.js to complete the tasks above. 
@@ -30,14 +29,3 @@ In this project I have used starter code provided for the homework for HTML and 
 ![image](https://user-images.githubusercontent.com/82196946/126947264-fd366883-7d87-4a69-88a1-f558b3ab05d4.png)
 
 ![image](https://user-images.githubusercontent.com/82196946/126947448-33535594-f171-4fff-98e2-3ed3feb6f8db.png)
-=======
-Screenshot of assignment:
-https://user-images.githubusercontent.com/82196946/124561780-9cef2d80-de81-11eb-940c-6fcbf5e3401e.png
-
-Link to Day Planner:
-https://stephmelanofridis.github.io/homework-05-day-planner/
-
-Link to repo:
-https://github.com/stephmelanofridis/homework-05-day-planner
-
->>>>>>> fc66809ab4a1e53e0948f692b4c01461e68743ec
