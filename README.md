@@ -1,17 +1,31 @@
-# homework-05-day-planner
+# Day Planner
 
-The homework for this week is as follows:
+An updated day planner that now complies with the homework requirements.
 
-Create a day planner
+My day planner includes:
 
--When the planner is opened, the current day is displayed at the top
--When the user scrolls down, they are presented with time blocks for standard business hours ( 9am - 5pm )
--When that day is viewed, it is color coded to indicate whether it is past, present or future
--When a timeblock is clicked, an event can be entered
--When the save button is clicked, the text for that event is saved to local storage
--When the page is refreshed, the saved event remains
+* Current date and time displayed at top of page
+* Time blocks for standard business hours ( 9am - 5pm ), appended using jQuery
+* Colour coded time blocks to indicate past, present and future
+* Clickable field where a task can be entered by the user
+* Save button to store what is entered to local storage
+* When the page is refreshed, the saved task will remain
 
-I have been able to acheive the current date and time being displayed, and have used form input to fill in the time blocks. I have not been able to acheive the color coding for past, present and future, or been able to get Local Storage to work properly.
+When I first attempted this homework I was able to acheive current time and date display at the top of page, and used Bootstrap to create the timeblocks. I was not able to achieve the colour coding for past, present and future and was not able to use local storage.
 
-My knowledge of Javascript foundations are not strong enough to achieve what is being asked of this assignment, so I am focusing on studying hard on Javascript foundations and will revisit this when I have a better understanding!
+With some more time and research I have been able to revisit this homework and submit something better that complies with the requirements of the homework. I have updated my code and instead of using HTML and Bootstrap to create the form elements, I have instead used jQuery. I have used jQuery to create and append elements and also add classes to them that connect with the CSS style sheet provided. I have also updated my moment.js code so that it continuously updates which it did not do before. 
 
+# Technologies Used
+
+In this project I have used starter code provided for the homework for HTML and CSS. I have then used jQuery, Bootstrap and moment.js to complete the tasks above. 
+
+# Links to project 
+
+* Deployed project: https://stephmelanofridis.github.io/homework-05-day-planner/
+* Github repository: https://github.com/stephmelanofridis/homework-05-day-planner
+
+# Screenshots of project
+
+![image](https://user-images.githubusercontent.com/82196946/126947264-fd366883-7d87-4a69-88a1-f558b3ab05d4.png)
+
+![image](https://user-images.githubusercontent.com/82196946/126947448-33535594-f171-4fff-98e2-3ed3feb6f8db.png)
